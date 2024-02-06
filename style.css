@@ -1,0 +1,26 @@
+a
+{
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    size: 20px;
+    text-align: center;
+    display: block;
+    text-transform: uppercase;
+    font-weight: bolder;    
+}
+
+body
+{
+    background-image: url(bg.jpg);
+    background-repeat: no-repeat;
+    background-size: 250%;
+    
+}
+
+.op
+{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
